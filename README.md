@@ -156,17 +156,16 @@ The architecture integrated:
 - Mobility subsystem interfaces
 
 ---
+# NASA Systems Engineering Reviews
 
-# NASA Systems Engineering Lifecycle
+Project POLARIS followed NASA's systems engineering lifecycle and progressed through four formal design reviews.
 
-Project POLARIS followed NASA's systems engineering development process.
-
-| Review | Purpose |
-|---------|----------|
-| Mission Concept Review (MCR) | Established the mission concept and science objectives |
-| Systems Requirements Review (SRR) | Defined mission architecture and subsystem requirements |
-| Mission Definition Review (MDR) | Matured mission design, schedule, procurement, cost, and risk |
-| Preliminary Design Review (PDR) | Completed preliminary spacecraft design and subsystem integration |
+| Review | Purpose | My Contributions |
+|---------|----------|----------------|
+| Mission Concept Review (MCR) | Established mission concept and science objectives | Supported early mission planning and CDH architecture |
+| Systems Requirements Review (SRR) | Developed subsystem requirements and trade studies | Designed CDH architecture and subsystem interfaces |
+| Mission Definition Review (MDR) | Matured mission architecture, schedule, procurement, and cost | Developed the Schedule Basis of Estimate (BoE) and Cost Basis of Estimate (BoE) as DPMR |
+| Preliminary Design Review (PDR) | Finalized preliminary spacecraft design | Completed CDH architecture, verification planning, and systems integration support |
 
 Throughout these reviews our team developed:
 
@@ -181,18 +180,6 @@ Throughout these reviews our team developed:
 - Cost Estimates
 - Mission Schedule
 - Interface Control Documentation
-
-## Deliverables
-
-Throughout the project, the team completed four formal NASA design reviews.
-
-| Review | Description |
-|---------|-------------|
-| Mission Concept Review (MCR) | Established mission concept and science objectives |
-| Systems Requirements Review (SRR) | Defined spacecraft architecture and subsystem requirements |
-| Mission Definition Review (MDR) | Matured mission architecture, cost, schedule, procurement and risk |
-| Preliminary Design Review (PDR) | Completed preliminary spacecraft design and subsystem integration |
----
 
 # Project Management Contributions
 
