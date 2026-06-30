@@ -2,8 +2,7 @@
 ## NASA L'SPACE Mission Concept Academy
 ### Lunar Permanently Shadowed Region (PSR) Rover Mission Concept
 
-![Mission Overview](images/mission-overview.png)
-
+![Mission Overview](images/01-mission-overview.png)
 ---
 
 ## Overview
@@ -78,7 +77,7 @@ The mission was designed to:
 
 # Mission Location
 
-![Mission Location](images/mission-location.png)
+![Mission Location](images/02-mission-location.png)
 
 Project POLARIS targeted the **Faustini-Amundsen crater region** near the Moon's south pole.
 
@@ -88,7 +87,7 @@ This location was selected because permanently shadowed regions (PSRs) are belie
 
 # Concept of Operations
 
-![Concept of Operations](images/concept-of-operations.png)
+![Concept of Operations](images/03-concept-of-operations.png)
 
 The Concept of Operations (ConOps) divided the mission into four operational phases:
 
@@ -129,7 +128,7 @@ The Concept of Operations (ConOps) divided the mission into four operational pha
 
 # Command & Data Handling Architecture
 
-![CDH Architecture](images/cdh-software-architecture.png)
+![CDH Architecture](images/04-cdh-software-architecture.png)
 
 The Command & Data Handling subsystem served as the central processing architecture for the rover.
 
@@ -183,6 +182,16 @@ Throughout these reviews our team developed:
 - Mission Schedule
 - Interface Control Documentation
 
+## Deliverables
+
+Throughout the project, the team completed four formal NASA design reviews.
+
+| Review | Description |
+|---------|-------------|
+| Mission Concept Review (MCR) | Established mission concept and science objectives |
+| Systems Requirements Review (SRR) | Defined spacecraft architecture and subsystem requirements |
+| Mission Definition Review (MDR) | Matured mission architecture, cost, schedule, procurement and risk |
+| Preliminary Design Review (PDR) | Completed preliminary spacecraft design and subsystem integration |
 ---
 
 # Project Management Contributions
@@ -206,7 +215,7 @@ Major contributions included:
 
 # Mission Schedule
 
-![Mission Schedule](images/mission-schedule.png)
+![Mission Schedule](images/05-mission-schedule.png)
 
 The mission schedule followed NASA's mission lifecycle from preliminary design through launch, surface operations, and mission closeout.
 
@@ -226,8 +235,7 @@ Major milestones included:
 
 # Organization
 
-![Organization Chart](images/organization-chart.png)
-
+## Mission Organization
 Project POLARIS was developed by an interdisciplinary engineering team consisting of:
 
 - Systems Engineering
@@ -314,8 +322,7 @@ Working simultaneously as a Command & Data Handling Engineer and Deputy Program 
 
 NASA L'SPACE Mission Concept Academy Certificate of Completion
 
-📄 [View Certificate](images/certificate.pdf)
-
+📄 [NASA L'SPACE Certificate](images/06-certificate.pdf)
 ---
 
 # Repository Contents
