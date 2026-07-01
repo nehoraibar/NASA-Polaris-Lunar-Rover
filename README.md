@@ -2,6 +2,18 @@
 ## NASA L'SPACE Mission Concept Academy
 ### Lunar Permanently Shadowed Region (PSR) Rover Mission Concept
 
+Project POLARIS was developed by a multidisciplinary engineering team over a semester-long NASA L'SPACE Mission Concept Academy project, culminating in four formal NASA-style systems engineering reviews and comprehensive mission documentation.
+
+# Project Highlights
+
+- NASA L'SPACE Mission Concept Academy graduate
+- Co-authored four NASA-style systems engineering deliverables (MCR, SRR, MDR, and PDR) as part of a multidisciplinary engineering team
+- Designed the rover's Command & Data Handling (CDH) subsystem
+- Authored CDH subsystem requirements and verification plans
+- Performed weighted trade studies for onboard computer, communications, data storage, and interfaces
+- Developed CDH mass and power budgets (0.727 kg, ~13 W peak)
+- Developed mission schedule and cost basis of estimate as Deputy Program Manager of Resources
+
 ![Mission Overview](images/01-mission-overview.png)
 ---
 
@@ -46,7 +58,7 @@ The mission was developed following NASA's systems engineering lifecycle and pro
 
 ## Command & Data Handling (CDH) Engineer
 
-Designed the rover's Command & Data Handling subsystem responsible for command execution, telemetry management, onboard data storage, subsystem communications, and fault management.
+Designed the rover's Command & Data Handling (CDH) subsystem, including the software architecture, subsystem requirements, hardware trade studies, verification planning, and subsystem mass and power budgeting.
 
 Key contributions included:
 
@@ -273,7 +285,7 @@ Project POLARIS progressed through NASA's systems engineering lifecycle, culmina
 | Mission Definition Review (MDR) | Schedule BoE, Cost BoE, procurement planning, and mission documentation |
 | Preliminary Design Review (PDR) | CDH architecture, verification planning, subsystem integration, and final design documentation |
 
-Throughout these reviews our team developed:
+Throughout these reviews, our team developed:
 
 - Science Traceability Matrix (STM)
 - Mission Requirements
@@ -286,24 +298,6 @@ Throughout these reviews our team developed:
 - Cost Estimates
 - Mission Schedule
 - Interface Control Documentation
-
-# Project Management Contributions
-
-As Deputy Program Manager of Resources, I worked on several programmatic aspects of the mission in addition to my technical responsibilities.
-
-Major contributions included:
-
-- Schedule Basis of Estimate (BoE)
-- Cost Basis of Estimate (BoE)
-- Integrated mission schedule
-- Resource planning
-- Procurement planning
-- Cost analysis
-- Mission planning
-- Schedule development
-- Review preparation
-- Design review coordination
-
 ---
 
 # Mission Schedule
@@ -341,7 +335,7 @@ Project POLARIS was developed by an interdisciplinary engineering team consistin
 - Program Analysis
 - Mission Assurance
 
-Working in this environment provided experience collaborating across multiple engineering disciplines while following NASA systems engineering practices.
+Project POLARIS was developed by a multidisciplinary engineering team consisting of systems, mechanical, electrical, thermal, payload, science, project management, and mission assurance disciplines. Collaborating across these teams provided experience working within NASA-style systems engineering and design review processes.
 
 ---
 
