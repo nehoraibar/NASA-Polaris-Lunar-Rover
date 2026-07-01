@@ -20,7 +20,6 @@ Project POLARIS was developed by a multidisciplinary engineering team over a sem
 
 - [Project Highlights](#project-highlights)
 - [My Contributions](#my-contributions)
-- [Mission Objectives](#mission-objectives)
 - [Mission Location](#mission-location)
 - [Concept of Operations](#concept-of-operations)
 - [Command & Data Handling Architecture](#command--data-handling-architecture)
