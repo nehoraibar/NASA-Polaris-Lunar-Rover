@@ -156,6 +156,73 @@ The architecture integrated:
 - Mobility subsystem interfaces
 
 ---
+# Command & Data Handling Engineering
+
+Beyond developing the overall software architecture, I was responsible for defining subsystem requirements, evaluating hardware tradeoffs, establishing verification strategies, and developing subsystem mass and power budgets for the rover's Command & Data Handling (CDH) subsystem.
+
+These engineering artifacts demonstrate the systems engineering process used to mature the subsystem throughout the NASA design reviews.
+
+---
+
+## Requirements Engineering
+
+![CDH Requirements](images/10-cdh-subsystem-requirements.png)
+
+Developed subsystem requirements derived from mission-level requirements, including onboard computing, data storage, communication interfaces, radiation tolerance, fault detection, power consumption, and subsystem mass allocation.
+
+## Verification Planning
+
+![Verification Plan](images/11-cdh-verification-plan.png)
+
+Developed verification methods and preliminary verification plans using inspection, analysis, and demonstration techniques to ensure each subsystem requirement could be validated during future integration and testing.
+
+## Onboard Computer Trade Study
+
+![OBC Trade Study](images/06-obc-trade-study.png)
+
+Performed a weighted engineering trade study comparing candidate onboard computers based on:
+
+- Radiation tolerance
+- Flight heritage
+- Processing capability
+- Power consumption
+- Size, Weight, Power and Cost (SWaP-C)
+
+The selected Argotec FERMI onboard computer achieved the highest overall weighted score while satisfying the mission requirements.
+
+## Data Storage Trade Study
+
+![Data Storage Trade Study](images/07-data-storage-trade-study.png)
+
+Evaluated multiple storage architectures considering:
+
+- Reliability
+- Radiation tolerance
+- Capacity
+- Read/write performance
+- Power consumption
+
+The selected architecture balanced redundancy, radiation tolerance, and storage capacity while remaining within subsystem constraints.
+
+## Data Interface Trade Study
+
+![Data Interface Trade Study](images/08-data-interface-trade-study.png)
+
+Compared multiple spacecraft data interface architectures to determine the optimal balance between communication reliability, payload throughput, subsystem integration complexity, and SWaP constraints.
+
+## Communications Trade Study
+
+![Communications Trade Study](images/09-communications-trade-study.png)
+
+Performed communications architecture trade studies comparing Direct-to-Earth communication options using weighted criteria including mission feasibility, flight heritage, data rate capability, power consumption, and overall spacecraft resource utilization.
+
+## CDH Subsystem Mass & Power Budget
+
+![Subsystem Budget](images/12-cdh-subassembly-budget.png)
+
+Developed preliminary subsystem mass, dimensions, and power budgets for each CDH subassembly to ensure compliance with spacecraft-level Size, Weight, and Power (SWaP) constraints.
+
+---
 # NASA Systems Engineering Reviews
 
 Project POLARIS followed NASA's systems engineering lifecycle and progressed through four formal design reviews.
