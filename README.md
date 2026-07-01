@@ -18,7 +18,20 @@ The mission was developed following NASA's systems engineering lifecycle and pro
 - Mission Definition Review (MDR)
 - Preliminary Design Review (PDR)
 ---
+## Table of Contents
 
+- [Project Highlights](#project-highlights)
+- [My Contributions](#my-contributions)
+- [Mission Objectives](#mission-objectives)
+- [Mission Location](#mission-location)
+- [Concept of Operations](#concept-of-operations)
+- [Command & Data Handling Architecture](#command--data-handling-architecture)
+- [Command & Data Handling Engineering](#command--data-handling-engineering)
+- [NASA Systems Engineering Reviews](#nasa-systems-engineering-reviews)
+- [Mission Schedule](#mission-schedule)
+- [Technical Skills Demonstrated](#technical-skills-demonstrated)
+- [Certificate](#certificate)
+- 
 # Project Highlights
 
 - NASA L'SPACE Mission Concept Academy graduate
