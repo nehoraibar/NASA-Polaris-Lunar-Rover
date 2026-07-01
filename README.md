@@ -343,6 +343,6 @@ Thank you for taking the time to review Project POLARIS.
 
 If you have questions about this project or would like to discuss engineering opportunities, please feel free to reach out.
 
-- LinkedIn: [https://www.linkedin.com/in/YOUR-LINK/](https://www.linkedin.com/in/nehoraibachur/)
+- LinkedIn: [https://www.linkedin.com/in/nehoraibachur/](https://www.linkedin.com/in/nehoraibachur/)
 - GitHub: [https://github.com/nehoraibar](https://github.com/nehoraibar)
 - Email: nehoraibar@gmail.com
