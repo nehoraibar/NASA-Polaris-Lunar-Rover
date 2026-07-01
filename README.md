@@ -337,6 +337,12 @@ NASA's L'SPACE Mission Concept Academy is a workforce development program that i
 
 ---
 
-## Contact
+## Connect With Me
 
-If you have questions regarding this project or would like to discuss my engineering experience, feel free to connect with me on LinkedIn or reach out through GitHub.
+Thank you for taking the time to review Project POLARIS.
+
+If you have questions about this project or would like to discuss engineering opportunities, please feel free to reach out.
+
+- LinkedIn: [https://www.linkedin.com/in/YOUR-LINK/](https://www.linkedin.com/in/nehoraibachur/)
+- GitHub: [https://github.com/nehoraibar](https://github.com/nehoraibar)
+- Email: nehoraibar@gmail.com
