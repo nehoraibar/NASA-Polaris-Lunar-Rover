@@ -371,7 +371,7 @@ Serving simultaneously as a Command & Data Handling Engineer and Deputy Program 
 
 NASA L'SPACE Mission Concept Academy Certificate of Completion
 
-![NASA L'SPACE Certificate](images/13-certificate.jpg)
+![NASA L'SPACE Certificate](images/13-certificate.png)
 
 ---
 
