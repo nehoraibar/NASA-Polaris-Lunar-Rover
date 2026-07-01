@@ -7,7 +7,7 @@ Project POLARIS was developed by a multidisciplinary engineering team over a sem
 # Project Highlights
 
 - NASA L'SPACE Mission Concept Academy graduate
-- Co-authored four NASA-style systems engineering deliverables (MCR, SRR, MDR, and PDR) as part of a multidisciplinary engineering team
+- Authored technical and programmatic sections across four NASA-style systems engineering reviews (MCR, SRR, MDR, and PDR)
 - Designed the rover's Command & Data Handling (CDH) subsystem
 - Authored CDH subsystem requirements and verification plans
 - Performed weighted trade studies for onboard computer, communications, data storage, and interfaces
@@ -15,20 +15,6 @@ Project POLARIS was developed by a multidisciplinary engineering team over a sem
 - Developed mission schedule and cost basis of estimate as Deputy Program Manager of Resources
 
 ![Mission Overview](images/01-mission-overview.png)
----
-
-## Overview
-
-Project **POLARIS** (Polar Operations for Lunar Assessment of Resources, Ice, and Subsurface) is a conceptual robotic lunar exploration mission developed as part of NASA's **L'SPACE Mission Concept Academy**.
-
-The mission investigated the abundance, distribution, and preservation of water-related volatiles (H₂O and OH) within permanently shadowed regions (PSRs) near the lunar south pole. The rover concept combined spectroscopy, thermal sensing, illumination measurements, and subsurface sampling to characterize volatile deposits and support future Artemis exploration.
-
-The mission was developed following NASA's systems engineering lifecycle and progressed through four formal design reviews:
-
-- Mission Concept Review (MCR)
-- Systems Requirements Review (SRR)
-- Mission Definition Review (MDR)
-- Preliminary Design Review (PDR)
 ---
 ## Table of Contents
 
@@ -43,22 +29,28 @@ The mission was developed following NASA's systems engineering lifecycle and pro
 - [Mission Schedule](#mission-schedule)
 - [Technical Skills Demonstrated](#technical-skills-demonstrated)
 - [Certificate](#certificate)
-- 
-# Project Highlights
 
-- NASA L'SPACE Mission Concept Academy graduate
-- Co-authored four NASA-style systems engineering deliverables (MCR, SRR, MDR, and PDR) as part of a multidisciplinary engineering team
-- Designed the rover's Command & Data Handling (CDH) subsystem
-- Authored CDH subsystem requirements and verification plans
-- Performed weighted trade studies for onboard computer, communications, data storage, and interfaces
-- Developed CDH mass and power budgets (0.727 kg, ~13 W peak)
-- Developed mission schedule and cost basis of estimate as Deputy Program Manager of Resources
+
+## Overview
+
+Project **POLARIS** (Polar Operations for Lunar Assessment of Resources, Ice, and Subsurface) is a conceptual robotic lunar exploration mission developed as part of NASA's **L'SPACE Mission Concept Academy**.
+
+The mission investigated the abundance, distribution, and preservation of water-related volatiles (H₂O and OH) within permanently shadowed regions (PSRs) near the lunar south pole. The rover concept combined spectroscopy, thermal sensing, illumination measurements, and subsurface sampling to characterize volatile deposits and support future Artemis exploration.
+
+The mission was developed following NASA's systems engineering lifecycle and progressed through four formal design reviews:
+
+- Mission Concept Review (MCR)
+- Systems Requirements Review (SRR)
+- Mission Definition Review (MDR)
+- Preliminary Design Review (PDR)
+---
+
 
 # My Contributions
 
 ## Command & Data Handling (CDH) Engineer
 
-Designed the rover's Command & Data Handling (CDH) subsystem, including the software architecture, subsystem requirements, hardware trade studies, verification planning, and subsystem mass and power budgeting.
+Designed the rover's Command & Data Handling (CDH) subsystem and authored technical documentation covering subsystem architecture, requirements, verification, manufacturing and procurement planning, as well as programmatic schedule and cost documentation.
 
 Key contributions included:
 
@@ -80,27 +72,13 @@ Contributed to the technical and programmatic development of Project POLARIS thr
 
 Key contributions included:
 
-- Co-authored the Mission Concept Review (MCR), Systems Requirements Review (SRR), Mission Definition Review (MDR), and Preliminary Design Review (PDR)
+- Authored schedule, cost, procurement, and programmatic documentation across all four NASA design reviews
 - Developed the Schedule Basis of Estimate (BoE)
 - Developed the Cost Basis of Estimate (BoE)
 - Created the integrated mission schedule
 - Supported procurement and resource planning
 - Performed mission cost estimation
 - Coordinated design review preparation with multidisciplinary engineering teams
----
-
-# Mission Objectives
-
-The mission was designed to:
-
-- Detect water ice (H₂O) and hydroxyl (OH) deposits
-- Characterize volatile abundance
-- Study volatile preservation within permanently shadowed regions
-- Collect subsurface regolith samples
-- Measure temperature and illumination
-- Support future Artemis missions
-- Improve understanding of lunar volatile evolution
-
 ---
 
 # Mission Location
@@ -275,15 +253,14 @@ Both values remained within the allocated spacecraft limits of **2 kg** and **20
 
 ---
 # NASA Systems Engineering Reviews
+Project POLARIS progressed through NASA's systems engineering lifecycle, culminating in four formal design reviews. As a member of the Command & Data Handling (CDH) and program management teams, I authored technical and programmatic sections spanning subsystem design, engineering trade studies, schedule development, and cost estimation.
 
-Project POLARIS progressed through NASA's systems engineering lifecycle, culminating in four formal design reviews. As a member of the engineering and program management teams, I co-authored each deliverable while contributing to the Command & Data Handling subsystem and programmatic planning.
-
-| Review | My Primary Contributions |
-|---------|--------------------------|
-| Mission Concept Review (MCR) | Mission planning, early CDH architecture, and technical documentation |
-| Systems Requirements Review (SRR) | CDH requirements, hardware trade studies, subsystem interfaces |
-| Mission Definition Review (MDR) | Schedule BoE, Cost BoE, procurement planning, and mission documentation |
-| Preliminary Design Review (PDR) | CDH architecture, verification planning, subsystem integration, and final design documentation |
+| Review | My Contributions |
+|---------|------------------|
+| **Mission Concept Review (MCR)** | Authored the Schedule Basis of Estimate and Budget Basis of Estimate. |
+| **Systems Requirements Review (SRR)** | Authored the CDH Subsystem Requirements, CDH Subsystem Overview, CDH Trade Studies, Schedule Basis of Estimate, and Cost Basis of Estimate. |
+| **Mission Definition Review (MDR)** | Authored the Schedule Basis of Estimate, Cost Basis of Estimate, Travel Cost, and Direct Costs sections. |
+| **Preliminary Design Review (PDR)** | Authored the CDH Subsystem Overview, Requirements, Sub-Assembly Overview, Recovery & Redundancy Plans, Manufacturing & Procurement Plans, Verification Plans, Schedule Basis of Estimate, Budget Basis of Estimate, Travel Budget, Direct Costs, and Power Subsystem Manufacturing & Procurement Plans. |
 
 Throughout these reviews, our team developed:
 
@@ -323,18 +300,6 @@ Major milestones included:
 # Organization
 
 ## Mission Organization
-Project POLARIS was developed by an interdisciplinary engineering team consisting of:
-
-- Systems Engineering
-- Project Management
-- Mechanical Engineering
-- Electrical Engineering
-- Thermal Engineering
-- Payload Engineering
-- Science Division
-- Program Analysis
-- Mission Assurance
-
 Project POLARIS was developed by a multidisciplinary engineering team consisting of systems, mechanical, electrical, thermal, payload, science, project management, and mission assurance disciplines. Collaborating across these teams provided experience working within NASA-style systems engineering and design review processes.
 
 ---
