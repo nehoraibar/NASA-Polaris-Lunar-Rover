@@ -132,28 +132,7 @@ The Concept of Operations (ConOps) divided the mission into four operational pha
 
 The Command & Data Handling subsystem served as the central processing architecture for the rover.
 
-Major functions included:
-
-- Command processing
-- Scientific data acquisition
-- Telemetry management
-- Fault Detection, Isolation & Recovery (FDIR)
-- Redundant data storage
-- Communication with Earth
-- Subsystem health monitoring
-- Flight software execution
-
-The architecture integrated:
-
-- Radiation-tolerant onboard computer
-- Redundant data storage
-- Telemetry packet generation
-- Communications subsystem
-- Fault protection layer
-- Vehicle health monitoring
-- Payload interfaces
-- Thermal subsystem interfaces
-- Mobility subsystem interfaces
+The Command & Data Handling (CDH) subsystem served as the central computing architecture of the rover, coordinating command execution, telemetry routing, scientific data processing, onboard storage, subsystem communication, and fault management. The architecture was designed with redundancy and fault tolerance to maximize mission reliability during autonomous lunar operations.
 
 ---
 # Command & Data Handling Engineering
