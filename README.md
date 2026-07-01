@@ -9,56 +9,59 @@
 
 Project **POLARIS** (Polar Operations for Lunar Assessment of Resources, Ice, and Subsurface) is a conceptual robotic lunar exploration mission developed as part of NASA's **L'SPACE Mission Concept Academy**.
 
-The mission was designed to investigate the abundance, distribution, and preservation of water-related volatiles (H₂O and OH) within Permanently Shadowed Regions (PSRs) near the lunar south pole. These regions are among the coldest environments in the Solar System and are believed to contain water ice that could support future Artemis missions and long-duration human exploration.
+The mission investigated the abundance, distribution, and preservation of water-related volatiles (H₂O and OH) within permanently shadowed regions (PSRs) near the lunar south pole. The rover concept combined spectroscopy, thermal sensing, illumination measurements, and subsurface sampling to characterize volatile deposits and support future Artemis exploration.
 
-The mission concept followed NASA's systems engineering lifecycle and progressed through four major design reviews:
+The mission was developed following NASA's systems engineering lifecycle and progressed through four formal design reviews:
 
 - Mission Concept Review (MCR)
 - Systems Requirements Review (SRR)
 - Mission Definition Review (MDR)
 - Preliminary Design Review (PDR)
-
 ---
 
-# My Roles
+# Project Highlights
 
-## Deputy Program Manager of Resources (DPMR)
+- NASA L'SPACE Mission Concept Academy graduate
+- Co-authored four NASA-style systems engineering deliverables (MCR, SRR, MDR, and PDR) as part of a multidisciplinary engineering team
+- Designed the rover's Command & Data Handling (CDH) subsystem
+- Authored CDH subsystem requirements and verification plans
+- Performed weighted trade studies for onboard computer, communications, data storage, and interfaces
+- Developed CDH mass and power budgets (0.727 kg, ~13 W peak)
+- Developed mission schedule and cost basis of estimate as Deputy Program Manager of Resources
 
-As Deputy Program Manager of Resources, I contributed to the programmatic development of Project POLARIS by supporting mission planning, scheduling, and resource management activities throughout the project lifecycle.
-
-Responsibilities included:
-
-- Developing the Schedule Basis of Estimate (BoE)
-- Developing the Cost Basis of Estimate (BoE)
-- Mission schedule development
-- Cost estimation support
-- Procurement planning
-- Resource planning
-- Team coordination
-- Design review preparation
-- Supporting Mission Definition Review (MDR)
-- Supporting Preliminary Design Review (PDR)
-
----
+# My Contributions
 
 ## Command & Data Handling (CDH) Engineer
 
-As a member of the Command & Data Handling team, I designed the rover's onboard data architecture responsible for command processing, telemetry management, subsystem communications, fault management, and scientific data handling.
+Designed the rover's Command & Data Handling subsystem responsible for command execution, telemetry management, onboard data storage, subsystem communications, and fault management.
 
-Responsibilities included:
+Key contributions included:
 
-- Software architecture design
-- Onboard computer selection
-- Data storage architecture
-- Fault Detection, Isolation & Recovery (FDIR)
-- Communication architecture
-- Telemetry processing
-- Command routing
-- Direct-to-Earth communication planning
-- Interface design
-- Verification planning
-- Trade studies
+- Designed the CDH software architecture
+- Defined subsystem requirements
+- Performed hardware trade studies
+- Selected onboard computer and storage architecture
+- Developed communication and data interface architecture
+- Designed Fault Detection, Isolation & Recovery (FDIR) strategy
+- Created subsystem mass and power budgets
+- Developed verification plans
+- Supported subsystem integration
 
+---
+
+## Deputy Program Manager of Resources (DPMR)
+
+Contributed to the technical and programmatic development of Project POLARIS throughout the NASA systems engineering lifecycle.
+
+Key contributions included:
+
+- Co-authored the Mission Concept Review (MCR), Systems Requirements Review (SRR), Mission Definition Review (MDR), and Preliminary Design Review (PDR)
+- Developed the Schedule Basis of Estimate (BoE)
+- Developed the Cost Basis of Estimate (BoE)
+- Created the integrated mission schedule
+- Supported procurement and resource planning
+- Performed mission cost estimation
+- Coordinated design review preparation with multidisciplinary engineering teams
 ---
 
 # Mission Objectives
@@ -130,16 +133,25 @@ The Concept of Operations (ConOps) divided the mission into four operational pha
 
 ![CDH Architecture](images/04-cdh-software-architecture.png)
 
-The Command & Data Handling subsystem served as the central processing architecture for the rover.
+The Command & Data Handling (CDH) subsystem served as the central computing architecture of the rover.
 
-The Command & Data Handling (CDH) subsystem served as the central computing architecture of the rover, coordinating command execution, telemetry routing, scientific data processing, onboard storage, subsystem communication, and fault management. The architecture was designed with redundancy and fault tolerance to maximize mission reliability during autonomous lunar operations.
+The architecture coordinated:
+
+- Command execution
+- Scientific data management
+- Telemetry processing
+- Fault Detection, Isolation & Recovery (FDIR)
+- Subsystem communications
+- Direct-to-Earth communications
+
+The modular design improved fault tolerance, simplified subsystem integration, and supported autonomous rover operations within the lunar south pole environment.
 
 ---
 # Command & Data Handling Engineering
 
-Beyond developing the overall software architecture, I was responsible for defining subsystem requirements, evaluating hardware tradeoffs, establishing verification strategies, and developing subsystem mass and power budgets for the rover's Command & Data Handling (CDH) subsystem.
+In addition to developing the software architecture, I engineered the complete CDH subsystem by defining requirements, performing hardware trade studies, developing verification strategies, and creating subsystem mass and power budgets.
 
-These engineering artifacts demonstrate the systems engineering process used to mature the subsystem throughout the NASA design reviews.
+The following engineering artifacts demonstrate the systems engineering process used throughout NASA's design reviews.
 
 ---
 
@@ -147,71 +159,106 @@ These engineering artifacts demonstrate the systems engineering process used to 
 
 ![CDH Requirements](images/10-cdh-subsystem-requirements.png)
 
-Developed subsystem requirements derived from mission-level requirements, including onboard computing, data storage, communication interfaces, radiation tolerance, fault detection, power consumption, and subsystem mass allocation.
+Developed subsystem requirements derived from mission-level requirements covering:
+
+- Onboard computing
+- Radiation tolerance
+- Data storage
+- Communications
+- Fault detection and recovery
+- Power allocation
+- Mass allocation
 
 ## Verification Planning
 
 ![Verification Plan](images/11-cdh-verification-plan.png)
 
-Developed verification methods and preliminary verification plans using inspection, analysis, and demonstration techniques to ensure each subsystem requirement could be validated during future integration and testing.
+Developed preliminary verification plans using NASA verification methods:
+
+- Inspection
+- Analysis
+- Demonstration
+
+Each subsystem requirement was mapped to an appropriate verification method to support future integration and testing.
 
 ## Onboard Computer Trade Study
 
 ![OBC Trade Study](images/06-obc-trade-study.png)
 
-Performed a weighted engineering trade study comparing candidate onboard computers based on:
+Compared multiple radiation-tolerant onboard computers using weighted engineering criteria:
 
 - Radiation tolerance
 - Flight heritage
 - Processing capability
 - Power consumption
-- Size, Weight, Power and Cost (SWaP-C)
+- SWaP-C
 
-The selected Argotec FERMI onboard computer achieved the highest overall weighted score while satisfying the mission requirements.
+The Argotec FERMI onboard computer achieved the highest overall score while satisfying mission requirements.
 
 ## Data Storage Trade Study
 
 ![Data Storage Trade Study](images/07-data-storage-trade-study.png)
 
-Evaluated multiple storage architectures considering:
+Evaluated multiple storage architectures based on:
 
 - Reliability
 - Radiation tolerance
-- Capacity
+- Storage capacity
 - Read/write performance
 - Power consumption
 
-The selected architecture balanced redundancy, radiation tolerance, and storage capacity while remaining within subsystem constraints.
+The selected architecture balanced redundancy, radiation tolerance, and storage performance while remaining within spacecraft resource constraints.
 
 ## Data Interface Trade Study
 
 ![Data Interface Trade Study](images/08-data-interface-trade-study.png)
 
-Compared multiple spacecraft data interface architectures to determine the optimal balance between communication reliability, payload throughput, subsystem integration complexity, and SWaP constraints.
+Compared multiple spacecraft communication architectures to optimize:
+
+- Reliability
+- Payload throughput
+- Integration complexity
+- SWaP-C
+
+The selected architecture provided reliable subsystem communications while supporting high-speed payload data transfer.
 
 ## Communications Trade Study
 
 ![Communications Trade Study](images/09-communications-trade-study.png)
 
-Performed communications architecture trade studies comparing Direct-to-Earth communication options using weighted criteria including mission feasibility, flight heritage, data rate capability, power consumption, and overall spacecraft resource utilization.
+Evaluated multiple Direct-to-Earth communication architectures using weighted criteria including:
 
+- Mission feasibility
+- Flight heritage
+- Data rate capability
+- Power consumption
+- SWaP-C
+
+The selected architecture provided the best balance between communication performance and spacecraft resource utilization.
 ## CDH Subsystem Mass & Power Budget
 
 ![Subsystem Budget](images/12-cdh-subassembly-budget.png)
 
-Developed preliminary subsystem mass, dimensions, and power budgets for each CDH subassembly to ensure compliance with spacecraft-level Size, Weight, and Power (SWaP) constraints.
+Developed subsystem mass and power budgets to verify compliance with spacecraft-level SWaP constraints.
+
+Final CDH subsystem budget:
+
+- Mass: **0.727 kg**
+- Peak power: **~13 W**
+
+Both values remained within the allocated spacecraft limits of **2 kg** and **20 W**.
 
 ---
 # NASA Systems Engineering Reviews
 
-Project POLARIS followed NASA's systems engineering lifecycle and progressed through four formal design reviews.
+Project POLARIS progressed through NASA's systems engineering lifecycle, culminating in four formal design reviews. As a member of the engineering and program management teams, I co-authored each deliverable while contributing to the Command & Data Handling subsystem and programmatic planning.
 
-| Review | Purpose | My Contributions |
-|---------|----------|----------------|
-| Mission Concept Review (MCR) | Established mission concept and science objectives | Supported early mission planning and CDH architecture |
-| Systems Requirements Review (SRR) | Developed subsystem requirements and trade studies | Designed CDH architecture and subsystem interfaces |
-| Mission Definition Review (MDR) | Matured mission architecture, schedule, procurement, and cost | Developed the Schedule Basis of Estimate (BoE) and Cost Basis of Estimate (BoE) as DPMR |
-| Preliminary Design Review (PDR) | Finalized preliminary spacecraft design | Completed CDH architecture, verification planning, and systems integration support |
+| Review | My Primary Contributions |
+|---------|--------------------------|
+| Mission Concept Review (MCR) | Mission planning, early CDH architecture, and technical documentation |
+| Systems Requirements Review (SRR) | CDH requirements, hardware trade studies, subsystem interfaces |
+| Mission Definition Review (MDR) | Schedule BoE, Cost BoE, procurement planning, and mission documentation |
+| Preliminary Design Review (PDR) | CDH architecture, verification planning, subsystem integration, and final design documentation |
 
 Throughout these reviews our team developed:
 
@@ -287,35 +334,33 @@ Working in this environment provided experience collaborating across multiple en
 
 # Technical Skills Demonstrated
 
-### Systems Engineering
+## Systems Engineering
 
 - Requirements Engineering
-- Science Traceability Matrix
-- Trade Studies
+- Verification & Validation
+- Engineering Trade Studies
 - Interface Control
-- Verification Planning
 - Risk Analysis
-- FMEA
+- Failure Mode & Effects Analysis (FMEA)
 
-### Spacecraft Engineering
+## Spacecraft Systems
 
-- Command & Data Handling
-- Software Architecture
-- Telemetry
-- Data Storage
-- Fault Detection & Recovery
-- Communications
+- Command & Data Handling (CDH)
+- Fault Detection, Isolation & Recovery (FDIR)
+- Telemetry Processing
+- Spacecraft Communications
+- Data Storage Architecture
 - Spacecraft Interfaces
+- SWaP Budgeting
 
-### Project Management
+## Program Management
 
-- Schedule Development
 - Cost Estimation
-- Schedule Basis of Estimate
-- Cost Basis of Estimate
-- Resource Planning
+- Schedule Development
+- Schedule Basis of Estimate (BoE)
+- Cost Basis of Estimate (BoE)
 - Procurement Planning
-- Team Coordination
+- Resource Planning
 
 ---
 
@@ -332,22 +377,22 @@ Working in this environment provided experience collaborating across multiple en
 
 ---
 
-# Lessons Learned
+# Key Takeaways
 
-Project POLARIS provided hands-on experience applying NASA systems engineering practices to the development of a complete lunar mission concept.
+Project POLARIS provided hands-on experience applying NASA systems engineering practices to the conceptual design of a lunar exploration mission.
 
-The project strengthened my experience in:
+Through this project I gained experience in:
 
-- Multidisciplinary engineering collaboration
-- Systems engineering methodology
-- Technical documentation
 - Requirements development
+- Spacecraft subsystem design
 - Engineering trade studies
-- Technical communication
-- Spacecraft subsystem integration
-- Program planning and resource management
+- Verification planning
+- Technical documentation
+- Cross-disciplinary engineering collaboration
+- Cost and schedule development
+- NASA design review processes
 
-Working simultaneously as a Command & Data Handling Engineer and Deputy Program Manager of Resources provided experience balancing technical engineering decisions with project management responsibilities while participating in NASA-style design reviews.
+Serving simultaneously as a Command & Data Handling Engineer and Deputy Program Manager of Resources strengthened both my technical engineering and project management skills while working within a multidisciplinary engineering team.
 
 ---
 
